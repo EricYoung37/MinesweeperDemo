@@ -8,7 +8,7 @@ This is an Android App that resembles the classic Windows puzzle video game Mine
 
 ### Use Cases (applicable to both portrait and landscape views):
 Screenshots displayed here are mostly for easy-mode games. You may check the screenshots directory for more hard-mode game screenshots.
-You may also check the demo video taken at checkpoint 5 (all other contents in this repository are for checkpoint 6 / the final checkpoint).
+You may also check the [demo video](https://drive.google.com/file/d/1jJPZAbJ92L63JOR3DLUl2ErtmgqLvj7H/view?usp=sharing) for checkpoint 5 (all other contents in this repository are for checkpoint 6 / the final checkpoint).
 1. **The user starts a new game from the main menu.**
 ![Main Menu](screenshots/1_1_main_menu.jpg)
 2. **The user views the time elapsing in the upper right corner.**
